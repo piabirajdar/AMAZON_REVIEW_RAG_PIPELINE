@@ -2,11 +2,6 @@
 # 📦 Product Review RAG Pipeline  
 ### ChromaDB • LangChain LCEL • KaggleHub • SentenceTransformers
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piabirajdar/AMAZON_REVIEW_RAG_PIPELINE/main/Productreview.png" alt="Project Banner">
-</p>
-
-
 ## 🚀 Run in Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_LINK)
 
