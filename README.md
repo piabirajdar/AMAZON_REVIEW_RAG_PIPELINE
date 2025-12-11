@@ -3,7 +3,7 @@
 ### ChromaDB • LangChain LCEL • KaggleHub • SentenceTransformers
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/Productreview.png" alt="Project Banner">
+  <img src="https://raw.githubusercontent.com/piabirajdar/AMAZON_REVIEW_RAG_PIPELINE/main/Productreview.png" alt="Project Banner">
 </p>
 
 
